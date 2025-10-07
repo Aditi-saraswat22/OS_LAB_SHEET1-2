@@ -1,0 +1,24 @@
+Oct 07, 2025 10:45:30 PM LabSheet2 main
+INFO: System Boot Sequence Initiated
+Oct 07, 2025 10:45:30 PM LabSheet2$SystemProcess run
+INFO: Process-1 started
+Oct 07, 2025 10:45:30 PM LabSheet2$SystemProcess run
+INFO: Process-2 started
+Oct 07, 2025 10:45:32 PM LabSheet2$SystemProcess run
+INFO: Process-2 ended
+Oct 07, 2025 10:45:32 PM LabSheet2$SystemProcess run
+INFO: Process-1 ended
+Oct 07, 2025 10:45:32 PM LabSheet2 main
+INFO: System Shutdown Completed
+Oct 07, 2025 10:46:22 PM LabSheet2 main
+INFO: System Boot Sequence Initiated
+Oct 07, 2025 10:46:22 PM LabSheet2$SystemProcess run
+INFO: Process-1 started
+Oct 07, 2025 10:46:22 PM LabSheet2$SystemProcess run
+INFO: Process-2 started
+Oct 07, 2025 10:46:24 PM LabSheet2$SystemProcess run
+INFO: Process-1 ended
+Oct 07, 2025 10:46:24 PM LabSheet2$SystemProcess run
+INFO: Process-2 ended
+Oct 07, 2025 10:46:24 PM LabSheet2 main
+INFO: System Shutdown Completed
